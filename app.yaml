@@ -1,8 +1,0 @@
-runtime: custom
-env: flex
-
-env_variables:
-  ASPNETCORE_ENVIRONMENT: "production"
-
-beta_settings:
-  cloud_sql_instances: "<CLOUD_SQL_CONNECTION_NAME>"
